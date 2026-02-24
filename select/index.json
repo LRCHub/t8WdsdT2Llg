@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かったるいな！（feat. 重音テト）",
+  "base_artist": "Adeliae",
+  "createdAt": "2026-02-24T07:45:11.270681Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かったるいな! (feat. 重音テト)",
+      "artist": "Adeliae",
+      "has_synced": false,
+      "path": "select/pl_01_かったるいな!_(feat._重音テト)_Adeliae.txt"
+    }
+  ]
+}
